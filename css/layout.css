@@ -25,10 +25,8 @@
 /* Posititoning Classes */
 
 .col-1 {
-  min-height: 100%;
-  width: 32%;
-  margin: 1% 1% 2%;
-  float: left;
+ float: left;
+ width: 32;
 }
 
 .col-2 {
